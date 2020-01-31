@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "us\decals\BMlogo_02a"
+	"$decal" 1
+	"$translucent" 1
+	$alpha 0.9
+}
